@@ -1,0 +1,12 @@
+Tasks to complete (Assignment):
+1. Create logout functionality in the application & add a "Logout" section in the Navbar for the same.
+2. Create functionality for Edit button, under the "About us" Page. 
+3. Create your own MERN Application, using as many functionalities as possible (Creating, Deleting, updating, adding, password hashing,
+salting, cookies, tokens, navigation, single page application etc, using components, APIs etc.)
+
+Some points about using the source code after downloading :
+1. Add your own Username, password, database name, PORT number & secret key, in config.env file.
+2. If needed, delete the node modules and reinstall them through terminal. 
+
+NOTE :-
+Refer the document called "MERN Application Notes" in the main folder, to get the notes consisting of the flow of the entire application.
